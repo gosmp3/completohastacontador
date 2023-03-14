@@ -17,25 +17,25 @@ export interface CartProduct {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
+    name: 'iPhone XL',
     price: 799,
-    description: 'A large phone with one of the best screens',
+    description: 'El mejor telefono segun los mamadores',
     images: ['uno.jpg'],
     quantity: 0
   },
   {
     id: 2,
-    name: 'Phone Mini',
+    name: 'Nokia 3220',
     price: 699,
-    description: 'A great phone with one of the best cameras',
+    description: 'Trae gomas con colores a los lados',
     images: ['dos.jpeg'],
     quantity: 0
   },
   {
     id: 3,
-    name: 'Phone Standard',
+    name: 'Sony Ericcson',
     price: 299,
-    description: 'Chinga tu madre',
+    description: 'Que chingones estaban estos celulares',
     images: ['tres.jpeg'],
     quantity: 0
   },
@@ -43,7 +43,15 @@ export const products = [
     id: 4,
     name: 'Motorolla',
     price: 899,
-    description: 'Chinga tu madre',
+    description: 'Moto A23',
+    images: ['cuatro.jpeg'],
+    quantity: 0
+  },
+  {
+    id: 5,
+    name: 'Samsung',
+    price: 50,
+    description: 'Galaxy A21',
     images: ['cuatro.jpeg'],
     quantity: 0
   }
