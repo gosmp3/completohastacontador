@@ -20,7 +20,7 @@ export const products = [
     name: 'iPhone XL',
     price: 799,
     description: 'El mejor telefono segun los mamadores',
-    images: ['uno.jpg'],
+    images: ['uno.png'],
     quantity: 0
   },
   {
@@ -36,23 +36,23 @@ export const products = [
     name: 'Sony Ericcson',
     price: 299,
     description: 'Que chingones estaban estos celulares',
-    images: ['tres.jpeg'],
+    images: ['tres.jpg'],
     quantity: 0
   },
   {
     id: 4,
     name: 'Motorolla',
     price: 899,
-    description: 'Moto A23',
-    images: ['cuatro.jpeg'],
+    description: 'Buena estetica y buen rendimiento',
+    images: ['cuatro.png'],
     quantity: 0
   },
   {
     id: 5,
     name: 'Samsung',
     price: 50,
-    description: 'Galaxy A21',
-    images: ['cuatro.jpeg'],
+    description: 'El celular que yo traigo y esta bien feo',
+    images: ['cinco.jpg'],
     quantity: 0
   }
 ];
